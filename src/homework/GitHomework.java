@@ -27,6 +27,6 @@ public class GitHomework {
 
 	//360 when you're in the mirror what do you see
 
-	//i'm everywhere i'm julia ah ah ah ah
+	//i'm everywhere i'm julia ah ah ah ah ah
 
 }
