@@ -6,7 +6,7 @@ public class GitHomework {
 		System.out.println("Batch 12: Git Class Lecture");
 		int age = 12;
 		String name = "John";
-		//This is comming from github
+		//This is coming from github
 		}
 	
 	public static void add (int a, int b) {
@@ -26,5 +26,7 @@ public class GitHomework {
 	}
 
 	//360 when you're in the mirror what do you see
+
+	//i'm everywhere i'm julia ah ah ah ah
 
 }
