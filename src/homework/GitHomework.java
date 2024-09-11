@@ -25,4 +25,6 @@ public class GitHomework {
 		System.out.println(a/b);
 	}
 
+	//360 when you're in the mirror what do you see
+
 }
